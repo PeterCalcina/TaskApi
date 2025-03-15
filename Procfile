@@ -1,1 +1,1 @@
-web: dotnet TaskApi.dll
+web: dotnet ./publish/TaskApi.dll
